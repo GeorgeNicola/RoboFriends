@@ -3,7 +3,7 @@ import Card from './Card';
 
 const CardList = ({robots}) => {
     if(true){
-        //throw new Error('NOO!');
+        throw new Error('NOO!');
     }
     return (
         <div>
